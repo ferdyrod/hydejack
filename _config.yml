@@ -2,29 +2,29 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hydejack
+title:               Ferdy Rodriguez
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://qwtel.com
+url:                 https://www.ferdyrodriguez.com
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /hydejack
+baseurl:             ''
 
 # A very short description of your page
-tagline:             A pretentious two-column Jekyll theme.
+tagline:             Ferdy Rodriguez personal blog
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Open `_config.yml` to edit this text.
+  In this blog I'll post about my personal learnings in my
+  Android developer path.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Ferdy Rodriguez
+  email:             ferdyrodriguez@gmail.com
 
 # Fallback image and color
 image:               /hydejack/assets/img/nap.jpg
