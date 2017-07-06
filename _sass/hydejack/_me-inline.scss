@@ -1,4 +1,4 @@
-.me {
+.me-about {
   float: right;
   width: 6.5rem;
   height: 6.5rem;
@@ -20,5 +20,28 @@
   @media screen and (min-width: $break-point-3) {
     width: 7rem;
     height: 7rem;
+  }
+
+}
+
+.me {
+  width: 10rem;
+  height: 10rem;
+  margin: auto;
+  border-radius: 100%;
+
+  @media screen and (min-width: $break-point-1) {
+    width: 10rem;
+    height: 10rem;
+  }
+
+  @media screen and (min-width: $break-point-2) {
+    width: 10rem;
+    height: 10rem;
+  }
+
+  @media screen and (min-width: $break-point-3) {
+    width: 10rem;
+    height: 10rem;
   }
 }

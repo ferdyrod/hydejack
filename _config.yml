@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Ferdy Rodriguez
+title:               Ferdy Rodríguez
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -13,22 +13,22 @@ url:                 https://www.ferdyrodriguez.com
 baseurl:             ''
 
 # A very short description of your page
-tagline:             Ferdy Rodriguez personal blog
+tagline:             Blog
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  In this blog I'll post about my personal learnings in my
-  Android developer path.
+  Android Developer and Software Craftmanship Padawan
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              Ferdy Rodriguez
+  name:              Ferdy Rodríguez
   email:             ferdyrodriguez@gmail.com
 
 # Fallback image and color
-image:               /hydejack/assets/img/nap.jpg
-color:               '#4f86aa'
+image:
+color:               '#FF5722'
+profile_photo:       /assets/img/me.jpg
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 font_heading:        "'Roboto Slab', Helvetica, Arial, sans-serif"
@@ -45,10 +45,10 @@ google_fonts:        Roboto+Slab:700|Noto+Serif:400,400i,700,700i
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:    <UA-XXXXXXXX-X>
+google_analytics:    UA-102025817-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    <username>
+disqus_shortname:    ferdyrod
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2017. All rights reserved.'
