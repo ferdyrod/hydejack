@@ -2,28 +2,10 @@
 # ========================================================================================
 
 <<<<<<< HEAD
-title:               Ferdy Rodríguez
-
-# The unique resource location of your page.
-# Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://www.ferdyrodriguez.com
-
-# Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
-# Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             ''
-
-# A very short description of your page
-tagline:             Blog
-
-# A short description of the page, used in the sidebar and as fallback for the meta description tag.
-# Markdown enabled, but don't use more than one paragraph (enforced by `>`)
-description:         >
-  Android Developer and Software Craftmanship Padawan
-=======
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                 https://www.ferdyrodriguez.com
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -31,26 +13,22 @@ url:                   https://domain.tld
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               ''
+baseurl:             ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:               Ferdy Rodríguez
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+description:         >
+  Android Developer and Software Craftmanship Padawan
 
 # A shorter description for the sidebar.
-tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
->>>>>>> 910cce2f0beb26c45563691c323b8cd4bfb57307
+tagline:             Blog
 
 # A list of keywords for your blog
 keywords:              []
@@ -65,21 +43,12 @@ author:
 <<<<<<< HEAD
   name:              Ferdy Rodríguez
   email:             ferdyrodriguez@gmail.com
-
-# Fallback image and color
-image:                /assets/img/nap.jpg
-color:                '#FF5722'
-profile_photo:        /assets/img/me.jpg
-=======
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2018. All rights reserved.
-  Open `_config.yml` to edit this text.
+  Ferdy Rodríguez © 2018. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -88,7 +57,11 @@ copyright:             >
 #     href:              /impress/
 #   - title:             Cookies Policy
 #     href:              /cookies-policy/
->>>>>>> 910cce2f0beb26c45563691c323b8cd4bfb57307
+
+# Fallback image and color
+image:                /assets/img/nap.jpg
+color:                '#FF5722'
+profile_photo:        /assets/img/me.jpg
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -158,21 +131,12 @@ defaults:
 <<<<<<< HEAD
 google_analytics:    UA-102025817-1
 
-# Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
-disqus_shortname:    ferdyrod
-
-# This text will appear in the footer of every page. Markdown enabled.
-copyright:           'Ferdy Rodríguez &copy; 2017. All rights reserved.'
-=======
-# google_analytics:      UA-XXXXXXXX-X
-
 # Setting a disqus shortname will enable the comment section on
-# pages with `comments: true` in the front matter.
-# disqus:                <disqus_shortname>
+# pages with `comments: true` in the front matter
+disqus_shortname:    ferdyrod
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # tinyletter:            <tinyletter_username>
->>>>>>> 910cce2f0beb26c45563691c323b8cd4bfb57307
 
 # Hydejack Settings
 # ----------------------------------------------------------------------------------------

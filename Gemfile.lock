@@ -76,14 +76,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-<<<<<<< HEAD
-  classifier-reborn
-  jekyll (~> 3.4)
-  jekyll-feed (~> 0.9)
-  jekyll-paginate (~> 1.1)
-  jekyll-redirect-from (~> 0.12)
-  jekyll-sitemap (~> 1.0)
-=======
   jekyll
   jekyll-default-layout
   jekyll-feed
@@ -99,4 +91,3 @@ DEPENDENCIES
 
 BUNDLED WITH
    1.16.1
->>>>>>> 910cce2f0beb26c45563691c323b8cd4bfb57307
