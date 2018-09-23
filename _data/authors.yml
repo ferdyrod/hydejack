@@ -1,6 +1,6 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
-# Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).# Change `author1` to your shortname.
+# Change `author1` to your shortname.
 ferdyrod:
   name:              Ferdy Rodriguez
   email:             ferdyrodriguez@gmail.com
@@ -66,3 +66,4 @@ ferdyrod:
     # paypal:          <username>
     email:           mailto:ferdyrodriguez@gmail.com
     #rss:
+    # download:        <url>
