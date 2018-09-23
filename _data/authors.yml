@@ -1,18 +1,36 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
+<<<<<<< HEAD
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
 ferdyrod:
   name:              Ferdy Rodriguez
   email:             ferdyrodriguez@gmail.com
+=======
+# Change `author1` to your shortname.
+author1:
+  name:              <firstname> <lastname>
+  email:             <mail@domain.tld>
+>>>>>>> 910cce2f0beb26c45563691c323b8cd4bfb57307
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:
 
 
+    [Download Free][kit]
+    -- or --
+    [Buy PRO][buy]
+
+    [kit]: https://github.com/qwtel/hydejack-starter-kit/archive/v8.0.0-beta.7.zip
+    [buy]: https://app.simplegoods.co/i/NATYVLYT
+
   # This photo will be used in the about section
   picture:
+<<<<<<< HEAD
     src:             /assets/img/me.jpg
+=======
+    path:            https://placehold.it/128x128
+>>>>>>> 910cce2f0beb26c45563691c323b8cd4bfb57307
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            /assets/img/me.jpg
@@ -20,11 +38,19 @@ ferdyrod:
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
-  # Icons appear in order, can be rearranged:
+  # Rearrange to change the order in which they appear
   social:
+<<<<<<< HEAD
     # facebook:        <username>
     github:          ferdyrod
     twitter:         ferdyrod
+=======
+    twitter:         <username>
+    github:          <username>
+    # email:           <mail@domain.tld>
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+>>>>>>> 910cce2f0beb26c45563691c323b8cd4bfb57307
     # google:          <number>
     # vk:              <username>
     # youtube:         <string_string_string>
@@ -47,7 +73,11 @@ ferdyrod:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
+<<<<<<< HEAD
     # stackoverflow:   1930468/ferdyrod
+=======
+    # stackoverflow:   <number/username>
+>>>>>>> 910cce2f0beb26c45563691c323b8cd4bfb57307
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
@@ -57,6 +87,28 @@ ferdyrod:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
+<<<<<<< HEAD
     email:           mailto:ferdyrodriguez@gmail.com
     #rss:
 
+=======
+    # download:        <url>
+
+# Another author (optional)
+author2:
+  name:              <firtname> <lastname>
+  email:             <mail@domain.tld>
+  about:             |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+    Open `_data/authors.yml` to edit this text.
+  picture:           https://placehold.it/128x128
+  twitter:           <username>
+  github:            <username>
+  accent_color:      '#268bd2'
+  accent_image:
+    background:      '#202020'
+    overlay:         false
+>>>>>>> 910cce2f0beb26c45563691c323b8cd4bfb57307
