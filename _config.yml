@@ -1,7 +1,6 @@
 # Config
 # ========================================================================================
 
-<<<<<<< HEAD
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
@@ -40,7 +39,6 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-<<<<<<< HEAD
   name:              Ferdy Rodríguez
   email:             ferdyrodriguez@gmail.com
   # Used by `jekyll-seo-tag`:
@@ -128,7 +126,6 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-<<<<<<< HEAD
 google_analytics:    UA-102025817-1
 
 # Setting a disqus shortname will enable the comment section on
